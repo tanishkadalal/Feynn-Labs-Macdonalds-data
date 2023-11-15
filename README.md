@@ -2,6 +2,7 @@
 Studying a small data set about macdonals reviews from a sample of population
 I wanted to share about my recent Virtual internship as a Machine learning Intern at Feynn Labs under the guidance of Sanjay Basumatary.
 
+Real Estate price prediction
 During my internship, I collaborated with a dedicated team to delve into Real Estate price prediction in India. Our objective was 
 to meticulously analyze the market and develop a robust price prediction model. Leveraging diverse machine learning algorithms, we 
 integrated data from prior studies to craft a refined model. The culmination of our efforts resulted in a predictive model anchored 
